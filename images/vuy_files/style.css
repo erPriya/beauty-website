@@ -1,0 +1,47 @@
+.height{
+	height: 1px;
+}
+.bg{
+	background-color: #e3e3e5;
+}
+.line{
+	height: 1px; 
+	background: black;
+	width: 90%;
+
+}
+.width{
+	width: 2%;
+}
+.fs{
+	font-size: 10px;
+}
+.rightside{
+	float: right;
+}
+.imgicon{
+	margin-left:150px;
+}
+.fs1{
+	font-size: 5px;
+}
+.fst{
+	margin-top: -15px;
+}
+.box{
+width: 30%;
+height: 90px;
+}
+.bg-warning{
+	height:45px; 
+}
+.box1{
+width: 48%;
+margin-left: 260px;	
+}
+.font{
+	font-size: 10px;
+}
+.font1{
+font-size:9px;
+}
